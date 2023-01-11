@@ -1,4 +1,4 @@
-# Project_-ZIIT
+# Project_- ZIIT
 
 Potrzebne dodatkowe biblioteki:
 - pandas
